@@ -17,4 +17,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richending&show_icons=true&locale=en" alt="richending" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=richending&" alt="richending" /></p>
-repository 
